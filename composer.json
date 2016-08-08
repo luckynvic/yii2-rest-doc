@@ -1,0 +1,25 @@
+{
+    "name": "luckynvic/yii2-rest-doc",
+
+    "type": "yii2-extension",
+
+    "description": "Yii2 REST Documentation Generator",
+    "keywords": ["yii2", "rest", "documention", "generator"],
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/luckynvic/yii2-rest-doc",
+    "authors": [
+        {
+            "name": "Lucky Vic",
+            "email": "luckynvic@gmail.com"
+        }
+    ],
+    "require": {
+        "crada/php-apidoc": "@dev",
+        "phpdocumentor/reflection": "^1.0.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "luckynvic\\restdoc\\": ""
+        }
+    }
+}
