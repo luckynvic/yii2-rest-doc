@@ -1,5 +1,5 @@
 <?php
-namespace lucynvic\restdoc\controllers;
+namespace lucynvic\restdoc;
 
 use Yii;
 use yii\console\Controller;
