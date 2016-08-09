@@ -4,7 +4,7 @@ Yii2 rest api document generator. This extension use yii console to build rest a
 
 # Installation
 
-Installation is recommended to be done via [composer][] by running:
+Installation is recommended to be done via composer by running:
 
 	composer require luckynvic/yii2-rest-doc "*"
 
