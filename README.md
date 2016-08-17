@@ -23,7 +23,7 @@ Add to your console config
 ```
     'controllerMap' => [
         'build-rest-doc' => [
-            'class' => '\lucynvic\restdoc\BuilderController',
+            'class' => '\luckynvic\restdoc\BuilderController',
             'sourceDirs' => [
                 '@api/controllers', // api controller path
             ],
